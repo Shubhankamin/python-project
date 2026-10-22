@@ -1,0 +1,7 @@
+Model,Accuracy,Macro F1
+Decision Tree,0.406,0.3249
+KNN,0.4165,0.3145
+Logistic Regression,0.3268,0.3113
+Random Forest,0.4568,0.3084
+SVM,0.318,0.2968
+Gradient Boosting,0.5502,0.2404
